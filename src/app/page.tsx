@@ -71,8 +71,8 @@ export default function Home() {
               Your Trusted Partner in Tower Construction &amp; and Maintenance
             </h2>
             <p className="font-light text-gray-600 text-sm md:text-base mb-6 leading-relaxed">
-              At A.B Power, we take pride in delivering exceptional
-              tower construction and maintenance services that exceed industry
+              At A.B Power, we take pride in delivering exceptional tower
+              construction and maintenance services that exceed industry
               standards. With a commitment to safety, quality, and innovation,
               we are your trusted partner for all your telecommunication
               infrastructure needs.
@@ -101,12 +101,12 @@ export default function Home() {
               <h2 className="max-w-lg mb-6 font-sans text-3xl font-base tracking-tight text-primary-700 sm:text-4xl sm:leading-none">
                 Meet Our CEO -
                 <br className="hidden md:block" />
-                &nbsp;<span className={`font-bold`}>Nilkanth Mahto,</span>
+                <span className={`font-bold`}>Nilkanth Mahto,</span>
               </h2>
               <p className="text-base text-gray-700 md:text-lg">
                 He is committed to driving the company forward, embracing
-                technological advancements, and ensuring that A.B Power
-                remains a leader in the field.
+                technological advancements, and ensuring that A.B Power remains
+                a leader in the field.
               </p>
             </div>
             <div className="grid gap-8 row-gap-8 sm:grid-cols-2">
@@ -128,8 +128,8 @@ export default function Home() {
                 </div>
 
                 <p className="text-sm text-gray-900">
-                  Founder & CEO founded A.B Power with a vision to
-                  revolutionize the tower construction and maintenance industry.
+                  Founder & CEO founded A.B Power with a vision to revolutionize
+                  the tower construction and maintenance industry.
                 </p>
               </div>
               <div className={`flex gap-x-3 items-center `}>
@@ -149,9 +149,9 @@ export default function Home() {
                   </svg>
                 </div>
                 <p className="text-sm text-gray-900">
-                  Nilkanth Mahto brings 8 years of expertise to the helm of
-                  the company. Under Nilkanth's leadership, A.B Power has
-                  achieved great achievements, milestones.
+                  Nilkanth Mahto brings 8 years of expertise to the helm of the
+                  company. Under Nilkanth's leadership, A.B Power has achieved
+                  great achievements, milestones.
                 </p>
               </div>
             </div>
@@ -858,10 +858,10 @@ export default function Home() {
             Why Choose " A.B Power " ?
           </h2>
           <p className={`text-primary-600`}>
-            At A.B Power, we bring a wealth of expertise to every
-            project. With a track record of successful tower constructions,
-            upgrades, and maintenance, our team has the knowledge and experience
-            to ensure your project is executed with precision and excellence.
+            At A.B Power, we bring a wealth of expertise to every project. With
+            a track record of successful tower constructions, upgrades, and
+            maintenance, our team has the knowledge and experience to ensure
+            your project is executed with precision and excellence.
           </p>
         </div>
         <div className="flex flex-wrap bg-black mt-10 lg:mt-20">
@@ -899,8 +899,8 @@ export default function Home() {
         <div className="relative z-10 text-center py-12 md:py-24">
           <p className="text-white mb-10 text-base md:text-lg  max-w-3xl mx-auto">
             Ready to discuss your tower construction and maintenance needs?
-            Contact us today to learn more about how A.B Power can be
-            your partner in building and maintaining robust and reliable
+            Contact us today to learn more about how A.B Power can be your
+            partner in building and maintaining robust and reliable
             telecommunication infrastructure.
           </p>
           <Link

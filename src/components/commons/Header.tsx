@@ -22,7 +22,7 @@ export default function Header({}: Props) {
       <div className="px-4 py-0 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 ">
         <div className="relative  grid items-center grid-cols-2 lg:grid-cols-3">
           <ul className="lg:flex items-center hidden space-x-8 ">
-            <li>
+            {/* <li>
               <Link
                 href="/about-us"
                 aria-label="Our product"
@@ -57,7 +57,7 @@ export default function Header({}: Props) {
               >
                 International Services
               </Link>
-            </li>
+            </li> */}
           </ul>
           <Link
             href="/"
@@ -132,7 +132,7 @@ export default function Header({}: Props) {
                 >
                   <Image
                     src={Logo}
-                    className={`w-16 aspect-square mr-3`}
+                    className={`w-16 aspect-video mr-3`}
                     alt="logo"
                   />
                   <span className="ml-2 text-xl font-bold tracking-wide text-primary-800 uppercase">
@@ -158,7 +158,7 @@ export default function Header({}: Props) {
             </div>
             <nav>
               <ul className="space-y-5 pb-3">
-                <li>
+                {/* <li>
                   <Link
                     href="/projects"
                     aria-label="Our product"
@@ -193,7 +193,7 @@ export default function Header({}: Props) {
                   >
                     International Services
                   </Link>
-                </li>
+                </li> */}
                 <li>
                   <Link
                     href="/contact-us"
